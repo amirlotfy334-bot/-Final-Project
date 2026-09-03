@@ -1,4 +1,4 @@
-# -Final-Project
+# Final Project
 Real Estate Data Analysis Project
 
 An end-to-end data analysis project focusing on cleaning, feature engineering, and visualizing real estate market trends
